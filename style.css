@@ -48,12 +48,13 @@ a {
     color: rgb(177, 28, 28);
 }
 
-.li1:hover { 
+.list:hover { 
   color: black; 
 }
 
-.li2:hover { 
-  color: black; 
+
+li: hover { 
+color: rgba(255, 0, 0, 0.685);
 }
 
 
